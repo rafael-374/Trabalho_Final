@@ -1,0 +1,133 @@
+#logo
+{
+    background-color: blue;
+}
+#imgCruzeiro
+{
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#titulo1
+{
+    text-align: center;
+    color: white;
+}
+#inf
+{
+    color: white;
+    font-size: 12px;
+}
+nav
+{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    background-color: rgb(99, 99, 250);
+    color: white;
+}
+a
+{
+    color: black;
+}
+.tit2
+{
+    display: flex;
+    color: rgba(248, 248, 0, 0.884);
+    justify-content: center;
+    font-size: 50px;
+}
+
+.infbas
+{
+    background-color: rgb(154, 156, 250);
+}
+#Liberta
+{
+    width: 500px;
+}
+#titulos
+{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+#brasileiro
+{
+    width: 600px;
+}
+.ul2
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+#Copa
+{
+    width: 500px;
+}
+#mineiro
+{
+    width: 550px;
+}
+footer
+{
+    background-color: blue;
+    margin-top: 20px;
+}
+#CEC
+{
+    width: 50px;
+    display: block;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+#foot
+{
+    display: flex;
+    background-color: blue;
+    flex-direction: row;
+    color: white;
+    
+}
+#fonte
+{
+    margin-left: 400px;
+    color: white;
+    font-size: 20px;
+}
+#torcida
+{
+    font-size: 20px;
+}
+#botao
+{
+    font-size: 20px;
+    color: blue;
+}
+#pause
+{
+    font-size: 20px;
+    color: blue;
+}
+.imagens
+{
+    width: 600px;
+    justify-content: center;
+}
+.ulimg
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+#imagens
+{
+    width: 650px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
